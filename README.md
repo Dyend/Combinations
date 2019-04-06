@@ -1,4 +1,4 @@
-# combinations
+# Combinations
 Genera todas las combinaciones posibles de una palabra permutando sus caracteres de manera iterativa
 
 # Ejemplo con la palabra EAC:
