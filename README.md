@@ -1,5 +1,5 @@
 # combinations
-genera todas las combinaciones posibles con una palabra permutando sus caracteres
+genera todas las combinaciones posibles de una palabra permutando sus caracteres de manera iterativa
 
 ejemplo con la palabra EAC:
 
