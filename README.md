@@ -1,7 +1,7 @@
 # combinations
 Genera todas las combinaciones posibles de una palabra permutando sus caracteres de manera iterativa
 
-# ejemplo con la palabra EAC:
+# Ejemplo con la palabra EAC:
 
 E
 
